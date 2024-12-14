@@ -19,5 +19,5 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-Some of the r codes were written with the help of the ChatGpt-4o. The diagnostics analysis, the template of survey, package citation and variable and package summaries were written with the help of ChatGpt-4o and the entire chat history is available in other/llms/usage.txt.
+Some of the r codes were written with the help of the ChatGpt-4o. The diagnostics analysis, template of the questionnare, package citation and variable and package summaries were written with the help of ChatGpt-4o and the entire chat history is available in other/llms/usage.txt.
 
