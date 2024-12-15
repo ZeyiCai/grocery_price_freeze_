@@ -19,5 +19,5 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-Some of the r codes for visualizations of price trends by vendors-nowtimes, testing simulated data, model prediction with plots and diagnostics parts were written,revised and improven with the help of the ChatGpt-4o. The diagnostics analysis, template of the questionnare, package citation and variable and package summaries were written with the help(reference) of ChatGpt-4o and the entire chat history is available in other/llms/usage.txt.
+Some of the r codes for visualizations of price trends by vendors-nowtime, testing simulated data, model prediction with plots and diagnostics parts were written,revised and improven with the help of the ChatGpt-4o. The diagnostics analysis, template of the questionnare, package citation and variable and package summaries were written with the help(reference) of ChatGpt-4o and the entire chat history is available in other/llms/usage.txt.
 
