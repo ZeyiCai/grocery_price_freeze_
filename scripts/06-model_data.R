@@ -1,5 +1,5 @@
 #### Preamble ####
-# Purpose: Tests the structure and validity of the cleaned dataset.
+# Purpose: Fit the model.
 # Author: Zeyi Cai
 # Date: 25 November 2024
 # Contact: zcloris.cai@mail.utoronto.ca
